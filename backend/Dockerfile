@@ -6,6 +6,6 @@ COPY . .
 
 RUN npm i
 
-EXPOSE 3000
+EXPOSE 5000
 
 CMD node index.js
